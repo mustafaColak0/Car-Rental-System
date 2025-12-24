@@ -1,0 +1,6 @@
+# C# Gereksiz Dosyaları
+bin/
+obj/
+.vs/
+*.user
+*.suo

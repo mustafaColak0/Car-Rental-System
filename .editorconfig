@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0055: Biçimlendirme Düzeltme
+dotnet_diagnostic.IDE0055.severity = none
+
+# IDE0005: Using yönergesi gerekli değildir.
+dotnet_diagnostic.IDE0005.severity = none
